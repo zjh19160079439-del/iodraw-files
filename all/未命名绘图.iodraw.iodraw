@@ -92,7 +92,7 @@
             <mxPoint x="510" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnA4STN0WX41Vwki6P5c-33" value="Pre-LN (前置层归一化)&amp;nbsp;Attention Is All You Need》中的 Post-LN (后置层归一化)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CnA4STN0WX41Vwki6P5c-33" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Pre-LN (前置层归一化)&amp;nbsp;Attention Is All You Need》中的 Post-LN (后置层归一化)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
