@@ -58,8 +58,15 @@
         <mxCell id="CnA4STN0WX41Vwki6P5c-21" value="通过“先放大、再激活、后缩小”的漏斗型结构，&lt;div&gt;对注意力层收集到的&lt;/div&gt;&lt;div&gt;信息进行深度的特征提取和非线性转换。&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="387.2" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CnA4STN0WX41Vwki6P5c-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="470" width="70" height="100" as="geometry" />
+        <mxCell id="CnA4STN0WX41Vwki6P5c-27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="480" as="sourcePoint" />
+            <mxPoint x="410" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="480" />
+              <mxPoint x="340" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
