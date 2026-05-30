@@ -46,12 +46,6 @@
         <mxCell id="CnA4STN0WX41Vwki6P5c-15" value="&lt;b data-index-in-node=&quot;26&quot; data-path-to-node=&quot;0&quot;&gt;多头注意力机制 (Multi-Head Attention)&lt;/b&gt;。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CnA4STN0WX41Vwki6P5c-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="200" as="sourcePoint" />
-            <mxPoint x="390" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
