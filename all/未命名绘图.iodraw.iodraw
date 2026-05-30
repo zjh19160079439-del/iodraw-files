@@ -56,10 +56,15 @@
           <mxGeometry x="120" y="342.8" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CnA4STN0WX41Vwki6P5c-21" value="通过“先放大、再激活、后缩小”的漏斗型结构，&lt;div&gt;对注意力层收集到的&lt;/div&gt;&lt;div&gt;信息进行深度的特征提取和非线性转换。&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="360" width="270" height="60" as="geometry" />
+          <mxGeometry x="235.35" y="342.8" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CnA4STN0WX41Vwki6P5c-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CnA4STN0WX41Vwki6P5c-21" target="CnA4STN0WX41Vwki6P5c-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CnA4STN0WX41Vwki6P5c-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CnA4STN0WX41Vwki6P5c-22">
+          <mxGeometry x="0.7339" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
